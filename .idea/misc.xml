@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/activity_country.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/activity_museums.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/activity_sports.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/activity_wonders.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/cardview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_chichen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_christ.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_colosseum.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_cricket.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_football.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_france.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_gwc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_heritage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_hockey.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_ind.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_louvre.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_machu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_nmc.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_petra.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_tajMahal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_tennis.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_uk.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Bharat/AndroidStudioProjects/MyInfoBook/app/src/main/res/layout/fragment_usa.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_ind2.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

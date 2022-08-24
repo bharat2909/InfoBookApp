@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">My InfoBook</string>
+    <string name="india">
+        <b>Country:</b>\tIndia\n
+        <b>Capital:</b>\tDelhi\n
+        <b>Currency:</b>\tRupees\n
+        <b>Total Area:</b>\t415.8/km2\n
+        <b>Language:</b>\tHindi\n
+        India, officially the Republic of India (Hindi: Bhārat Gaṇarājya) is a country in South
+        Asia. It is the seventh-largest country by area, the second-most populous country, and the
+        most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian
+        Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with
+        Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar
+        to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives;
+        its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar and
+        Indonesia.
+        \n\n Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years
+        ago.Their long occupation, initially in varying forms of isolation as hunter-gatherers, has
+        made the region highly diverse, second only to Africa in human genetic diversity.[30]
+        Settled life emerged on the subcontinent in the western margins of the Indus river basin
+        9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third
+        millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had
+        diffused into India from the northwest, unfolding as the language of the Rigveda, and
+        recording the dawning of Hinduism in India.[34] The Dravidian languages of India were
+        supplanted in the northern and western regions. By 400 BCE, stratification and exclusion by
+        caste had emerged within Hinduism, and Buddhism and Jainism had arisen, proclaiming social
+        orders unlinked to heredity. Early political consolidations gave rise to the loose-knit
+        Maurya and Gupta Empires based in the Ganges Basin. Their collective era was suffused with
+        wide-ranging creativity, but also marked by the declining status of women,and the
+        incorporation of untouchability into an organised system of belief. In South India, the
+        Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms
+        of Southeast Asia.
+        \n\nIn the early medieval era, Christianity, Islam, Judaism, and Zoroastrianism became
+        established on India\'s southern and western coasts.[43] Muslim armies from Central Asia
+        intermittently overran India\'s northern plains, eventually founding the Delhi Sultanate,
+        and drawing northern India into the cosmopolitan networks of medieval Islam. In the 15th
+        century, the Vijayanagara Empire created a long-lasting composite Hindu culture in south
+        India. In the Punjab, Sikhism emerged, rejecting institutionalised religion.[47] The Mughal
+        Empire, in 1526, ushered in two centuries of relative peace, leaving a legacy of luminous
+        architecture. Gradually expanding rule of the British East India Company followed, turning
+        India into a colonial economy, but also consolidating its sovereignty. British Crown rule
+        began in 1858. The rights promised to Indians were granted slowly, but technological changes
+        were introduced, and ideas of education, modernity and the public life took root. A
+        pioneering and influential nationalist movement emerged, which was noted for nonviolent
+        resistance and became the major factor in ending British rule. In 1947 the British Indian
+        Empire was partitioned into two independent dominions, a Hindu-majority Dominion of India
+        and a Muslim-majority Dominion of Pakistan, amid large-scale loss of life and an
+        unprecedented migration.
+    </string>
+    <string name="usa">
+        <b>Country:</b>\tUSA\n
+        <b>Capital:</b>\tWashington\n
+        <b>Currency:</b>\tDollar\n
+        <b>Total Area:</b>\t9,833,520\n
+        <b>Language:</b>\tEnglish\n
+        The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, 326 Indian reservations, and nine minor outlying islands.[i] It is the world\'s third-largest country by both land and total area.[c] The United States shares land borders with Canada to the north and with Mexico to the south as well as maritime borders with the Bahamas, Cuba, and Russia, among others.[j] With more than 331 million people,[d] it is the third most populous country in the world. The national capital is Washington, D.C., and the most populous city and financial center is New York City.
+\n
+    Paleo-Indians migrated from Siberia to the North American mainland at least 12,000 years ago, and European colonization began in the 16th century. The United States emerged from the Thirteen British Colonies established along the East Coast. Disputes with Great Britain over taxation and political representation led to the American Revolutionary War (1775–1783), which established the nation\'s independence. In the late 18th century, the U.S. began expanding across North America, gradually obtaining new territories, sometimes through war, frequently displacing Native Americans, and admitting new states. This was strongly related to belief in manifest destiny, and by 1848, the United States spanned the continent from east to west. Slavery was legal in the southern United States until the second half of the 19th century, when the American Civil War led to its abolition. The Spanish–American War and World War I established the U.S. as a world power, and the aftermath of World War II left the United States and the Soviet Union as the world\'s two superpowers. During the Cold War, both sides fought in the Korean and Vietnam Wars but avoided direct military conflict. They competed in the Space Race, culminating in the 1969 American spaceflight that first landed humans on the Moon. The Soviet Union\'s dissolution in 1991 ended the Cold War, leaving the United States as the world\'s sole superpower.
+\n
+    The United States is a federal republic with three separate branches of government, including a bicameral legislature. It is a founding member of the United Nations, World Bank, International Monetary Fund, Organization of American States, NATO, and other international organizations. It is a permanent member of the United Nations Security Council. Considered a melting pot of cultures and ethnicities, its population has been profoundly shaped by centuries of immigration. The United States is a liberal democracy; it ranks high in international measures of economic freedom, quality of life, education, and human rights; and it has low levels of perceived corruption. Unlike other Western democracies, the United States lacks universal health care, retains capital punishment, and has high levels of incarceration and inequality.[25]
+    </string>
+    <string name="uk">
+        <b>Country:</b>\tUK\n
+        <b>Capital:</b>\tLondon\n
+        <b>Currency:</b>\tGBP\n
+        <b>Total Area:</b>\t5,565,99\n
+        <b>Language:</b>\tEnglish\n
+        The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain,[note 1][19] is a sovereign country in Europe, off the north-western coast of the continental mainland.[20][21] It comprises England, Wales, Scotland, and Northern Ireland.[22] The United Kingdom includes the island of Great Britain, the north-eastern part of the island of Ireland, and many smaller islands within the British Isles.[23] Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea. The total area of the United Kingdom is 93,628 square miles (242,500 km2), with an estimated 2020 population of more than 67 million people.[14]
+\n
+The United Kingdom is a unitary parliamentary democracy and constitutional monarchy.[note 2][24][25] The monarch, Queen Elizabeth II, has reigned since 1952.[26] The capital and largest city is London, a global city and financial centre with a metropolitan area population of over 14 million. Other major cities include Birmingham, Manchester, Glasgow, Liverpool and Leeds.[27] Scotland, Wales, and Northern Ireland have their own devolved governments, each with varying powers.[28][29]
+\n
+The United Kingdom has evolved from a series of annexations, unions and separations of constituent countries over several hundred years. The Treaty of Union between the Kingdom of England (which included Wales, annexed in 1542) and the Kingdom of Scotland in 1707 formed the Kingdom of Great Britain. Its union in 1801 with the Kingdom of Ireland created the United Kingdom of Great Britain and Ireland. Most of Ireland seceded from the UK in 1922, leaving the present United Kingdom of Great Britain and Northern Ireland, which formally adopted that name in 1927.
+    </string>
+    <string name="france">
+        <b>Country:</b>\tFrance\n
+        <b>Capital:</b>\tParis\n
+        <b>Currency:</b>\tEuro\n
+        <b>Total Area:</b>\t643,801 km2\n
+        <b>Language:</b>\tFrench\n
+
+        France, officially the French Republic (French: République française[14]), is a transcontinental country spanning Western Europe and overseas regions and territories in the Americas and the Atlantic, Pacific and Indian Oceans.[XIII] Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea; overseas territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Due to its several coastal territories, France has the largest exclusive economic zone in the world. France borders Belgium, Luxembourg, Germany, Switzerland, Monaco, Italy, Andorra, and Spain in Europe, as well as the Netherlands, Suriname, and Brazil in the Americas via its overseas territories in French Guiana and Saint Martin. Its eighteen integral regions (five of which are overseas) span a combined area of 643,801 km2 (248,573 sq mi) and over 67 million people (as of May 2021).[5] France is a unitary semi-presidential republic with its capital in Paris, the country\'s largest city and main cultural and commercial centre; other major urban areas include Marseille, Lyon, Toulouse, Lille, Bordeaux, and Nice.
+
+Inhabited since the Palaeolithic era, the territory of Metropolitan France was settled by Celtic tribes known as Gauls during the Iron Age. Rome annexed the area in 51 BC, leading to a distinct Gallo-Roman culture that laid the foundation of the French language. The Germanic Franks formed the Kingdom of Francia, which became the heartland of the Carolingian Empire. The Treaty of Verdun of 843 partitioned the empire, with West Francia becoming the Kingdom of France in 987. In the High Middle Ages, France was a powerful but highly decentralised feudal kingdom. Philip II successfully strengthened royal power and defeated his rivals to double the size of the crown lands; by the end of his reign, France had emerged as the most powerful state in Europe. From the mid-14th to the mid-15th century, France was plunged into a series of dynastic conflicts involving England, collectively known as the Hundred Years\' War, and a distinct French identity emerged as a result. The French Renaissance saw art and culture flourish, conflict with the House of Habsburg, and the establishment of a global colonial empire, which by the 20th century would become the second-largest in the world.[15] The second half of the 16th century was dominated by religious civil wars between Catholics and Huguenots that severely weakened the country. France again emerged as Europe\'s dominant power in the 17th century under Louis XIV following the Thirty Years\' War.[16] Inadequate economic policies, inequitable taxes and frequent wars (notably a defeat in the Seven Years\' War and costly involvement in the American War of Independence), left the kingdom in a precarious economic situation by the end of the 18th century. This precipitated the French Revolution of 1789, which overthrew the Ancien Régime and produced the Declaration of the Rights of Man, which expresses the nation\'s ideals to this day.
+
+France reached its political and military zenith in the early 19th century under Napoleon Bonaparte, subjugating much of continental Europe and establishing the First French Empire. The French Revolutionary and Napoleonic Wars shaped the course of European and world history. The collapse of the empire initiated a period of relative decline, in which France endured a tumultuous succession of governments until the founding of the French Third Republic during the Franco-Prussian War in 1870. Subsequent decades saw a period of optimism, cultural and scientific flourishing, as well as economic prosperity known as the Belle Époque. France was one of the major participants of World War I, from which it emerged victorious at great human and economic cost. It was among the Allied powers of World War II, but was soon occupied by the Axis in 1940. Following liberation in 1944, the short-lived Fourth Republic was established and later dissolved in the course of the Algerian War. The current Fifth Republic was formed in 1958 by Charles de Gaulle. Algeria and most French colonies became independent in the 1960s, with the majority retaining close economic and military ties with France.
+    </string>
+    <string name="tajmahal">
+        The <b>Taj Mahal</b> is an islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (r. 1628–1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+
+Construction of the mausoleum was essentially completed in 1643, but work continued on other phases of the project for another 10 years. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around ₹32 million, which in 2020 would be approximately ₹70 billion (about US $1 billion). The construction project employed some 20,000 artisans under the guidance of a board of architects led by the court architect to the emperor, Ustad Ahmad Lahauri. Various types of symbolism have been employed in the Taj to reflect natural beauty and divinity.
+
+The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world\'s heritage\". It is regarded by many as the best example of Mughal architecture and a symbol of India\'s rich history. The Taj Mahal attracts more than 6 million visitors a year[3] and in 2007, it was declared a winner of the New 7 Wonders of the World (2000–2007) initiative.
+    </string>
+    <string name="colosseum">
+        The <b>Colosseum</b> is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age. Construction began under the emperor Vespasian (r. 69–79 AD) in 72[1] and was completed in 80 AD under his successor and heir, Titus (r. 79–81).[2] Further modifications were made during the reign of Domitian (r. 81–96).[3] The three emperors that were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio [aɱfiteˈaːtro ˈflaːvjo]) by later classicists and archaeologists for its association with their family name (Flavius).
+
+The Colosseum is built of travertine limestone, tuff (volcanic rock), and brick-faced concrete. It could hold an estimated 50,000 to 80,000 spectators at various points in its history,[4][5] having an average audience of some 65,000;[6] it was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and dramas based on Roman mythology, and briefly mock sea battles. The building ceased to be used for entertainment in the early medieval era. It was later reused for such purposes as housing, workshops, quarters for a religious order, a fortress, a quarry, and a Christian shrine.
+
+Although substantially ruined by earthquakes and stone robbers taking spolia, the Colosseum is still an iconic symbol of Imperial Rome and was listed as one of the New7Wonders of the World.[7] It is one of Rome\'s most popular tourist attractions and also has links to the Roman Catholic Church, as each Good Friday the Pope leads a torchlit \"Way of the Cross\" procession that starts in the area around the Colosseum.[8] The Colosseum is depicted on the Italian version of the five-cent euro coin.
+    </string>
+    <string name="petra">
+        <b>Petra</b>,originally known to its inhabitants as Raqmu or Raqēmō[3][4] is a historic and archaeological city in southern Jordan. It is adjacent to the mountain of Jabal Al-Madbah, in a basin surrounded by mountains forming the eastern flank of the Arabah valley running from the Dead Sea to the Gulf of Aqaba.[5] The area around Petra has been inhabited from as early as 7000 BC,[6] and the Nabataeans might have settled in what would become the capital city of their kingdom as early as the 4th century BC.[7] Archaeological work has only discovered evidence of Nabataean presence dating back to the second century BC,[8] by which time Petra had become their capital.[6] The Nabataeans were nomadic Arabs who invested in Petra\'s proximity to the incense trade routes by establishing it as a major regional trading hub.[6][9]
+
+The trading business gained the Nabataeans considerable revenue and Petra became the focus of their wealth. The Nabataeans were accustomed to living in the barren deserts, unlike their enemies, and were able to repel attacks by taking advantage of the area\'s mountainous terrain. They were particularly skillful in harvesting rainwater, agriculture and stone carving. Petra flourished in the 1st century AD, when its famous Al-Khazneh structure – believed to be the mausoleum of Nabataean king Aretas IV – was constructed, and its population peaked at an estimated 20,000 inhabitants.[10]
+
+Although the Nabataean kingdom became a client state of the Roman Empire in the first century BC, it was only in 106 AD that it lost its independence. Petra fell to the Romans, who annexed Nabataea and renamed it as Arabia Petraea.[11] Petra\'s importance declined as sea trade routes emerged, and after an earthquake in 363 destroyed many structures. In the Byzantine era several Christian churches were built, but the city continued to decline, and by the early Islamic era it was abandoned except for a handful of nomads. It remained unknown until it was rediscovered in 1812 by Johann Ludwig Burckhardt.
+    </string>
+    <string name="gwc">
+        <b>The Great Wall of China</b>,is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC,[4] with selective stretches later joined together by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains.[5] Later on, many successive dynasties built and maintained multiple stretches of border walls. The best-known sections of the wall were built by the Ming dynasty (1368–1644).
+
+Apart from defense, other purposes of the Great Wall have included border controls, allowing the imposition of duties on goods transported along the Silk Road, regulation or encouragement of trade and the control of immigration and emigration.[6] Furthermore, the defensive characteristics of the Great Wall were enhanced by the construction of watchtowers, troop barracks, garrison stations, signaling capabilities through the means of smoke or fire, and the fact that the path of the Great Wall also served as a transportation corridor.
+
+The frontier walls built by different dynasties have multiple courses. Collectively, they stretch from Liaodong in the east to Lop Lake in the west, from the present-day Sino–Russian border in the north to Tao River (Taohe) in the south; along an arc that roughly delineates the edge of the Mongolian steppe; spanning 21,196.18 km (13,170.70 mi) in total.[7][3] Today, the defensive system of the Great Wall is generally recognized as one of the most impressive architectural feats in history.[
+    </string>
+    <string name="chichen">
+        <b>Chichen Itza</b>[nb 1] was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tinúm Municipality, Yucatán State, Mexico.[1]
+
+Chichen Itza was a major focal point in the Northern Maya Lowlands from the Late Classic (c. AD 600–900) through the Terminal Classic (c. AD 800–900) and into the early portion of the Postclassic period (c. AD 900–1200). The site exhibits a multitude of architectural styles, reminiscent of styles seen in central Mexico and of the Puuc and Chenes styles of the Northern Maya lowlands. The presence of central Mexican styles was once thought to have been representative of direct migration or even conquest from central Mexico, but most contemporary interpretations view the presence of these non-Maya styles more as the result of cultural diffusion.
+
+Chichen Itza was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature.[2] The city may have had the most diverse population in the Maya world, a factor that could have contributed to the variety of architectural styles at the site.[3]
+
+The ruins of Chichen Itza are federal property, and the site\'s stewardship is maintained by Mexico\'s Instituto Nacional de Antropología e Historia (National Institute of Anthropology and History). The land under the monuments had been privately owned until 29 March 2010, when it was purchased by the state of Yucatán.[nb 2]
+
+Chichen Itza is one of the most visited archeological sites in Mexico with over 2.6 million tourists in 2017.
+    </string>
+    <string name="machu">
+        <b>Machu Picchu</b> is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter (7,970 ft) mountain ridge.[2][3] It is located in the Machupicchu District within Urubamba Province[4] above the Sacred Valley, which is 80 kilometers (50 mi) northwest of Cusco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate.[5]
+
+For most speakers of English or Spanish, the first \'c\' in Picchu is silent. In English, the name is pronounced /ˌmɑːtʃuː ˈpiːtʃuː/[6][7] or /ˌmætʃuː ˈpiːktʃuː/,[7][8] in Spanish as [ˈmatʃu ˈpitʃu] or [ˈmatʃu ˈpiktʃu],[9] and in Quechua (Machu Pikchu)[10] as [ˈmatʃʊ ˈpɪktʃʊ].
+
+The Incas, in contrast with the Mayans, had no written language, and no European visited the site until the 19th century, so far as is known. There are, therefore, no written records of the site while it was in use. The names of the buildings, their supposed uses, and their inhabitants are all the product of modern archeologists, on the basis of physical evidence, including tombs at the site.
+
+Most recent archaeologists believe that Machu Picchu was constructed as an estate for the Inca emperor Pachacuti (1438–1472). Often referred to as the \"Lost City of the Incas\", it is the most familiar icon of Inca civilization. The Incas built the estate around 1450 but abandoned it a century later, at the time of the Spanish conquest. According to the new AMS radiocarbon dating, it was occupied from c. 1420–1532.[11] Historical research published in 2022 claims that the site was probably called Huayna Picchu by the Inca, as it exists on the smaller peak of the same name.
+    </string>
+    <string name="christ">
+       <b>Christ the Redeemer</b> is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot. Romanian sculptor Gheorghe Leonida fashioned the face. Constructed between 1922 and 1931, the statue is 30 metres (98 ft) high, excluding its 8-metre (26 ft) pedestal. The arms stretch 28 metres (92 ft) wide.[1][2] It is made of reinforced concrete and soapstone.[3][4][5]
+
+The statue weighs 635 metric tons (625 long, 700 short tons), and is located at the peak of the 700-metre (2,300 ft) Corcovado mountain in the Tijuca National Park overlooking the city of Rio de Janeiro. A symbol of Christianity around the world, the statue has also become a cultural icon of both Rio de Janeiro and Brazil and was voted one of the New Seven Wonders of the World.
+    </string>
+    <string name="cricket">
+        <b>Cricket</b> is a bat-and-ball game played between two teams of eleven players each on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps. The game proceeds when a player on the fielding team, called the bowler, "\bowls\" (propels) the ball from one end of the pitch towards the wicket at the other end, with an \"over\" being completed once they have legally done so six times. The batting side has one player at each end of the pitch, with the player at the opposite end of the pitch from the bowler aiming to strike the ball with a bat. The batting side scores runs when either the bowler unfairly bowls the ball to the batter, the ball reaches the boundary of the field, or the two batters swap ends of the pitch, which results in one run. The fielding side\'s aim is to prevent run-scoring and dismiss each batter (so they are \"out\", and are said to have \"lost their wicket\"). Means of dismissal include being bowled, when the bowled ball hits the stumps and dislodges the bails, and by the fielding side either catching a hit ball before it touches the ground, or hitting a wicket with the ball before a batter can cross the crease line in front of the wicket to complete a run. When ten batters have been dismissed, the innings ends and the teams swap roles. The game is adjudicated by two umpires, aided by a third umpire and match referee in international matches.
+
+Forms of cricket range from Twenty20, with each team batting for a single innings of 20 overs and the game generally lasting three hours, to Test matches played over five days. Traditionally cricketers play in all-white kit, but in limited overs cricket they wear club or team colours. In addition to the basic kit, some players wear protective gear to prevent injury caused by the ball, which is a hard, solid spheroid made of compressed leather with a slightly raised sewn seam enclosing a cork core layered with tightly wound string.
+
+The earliest reference to cricket is in South East England in the mid-16th century. It spread globally with the expansion of the British Empire, with the first international matches in the second half of the 19th century. The game\'s governing body is the International Cricket Council (ICC), which has over 100 members, twelve of which are full members who play Test matches. The game\'s rules, the Laws of Cricket, are maintained by Marylebone Cricket Club (MCC) in London. The sport is followed primarily in South Asia, Australasia, the United Kingdom, southern Africa and the West Indies.[1]
+
+Women\'s cricket, which is organised and played separately, has also achieved international standard. The most successful side playing international cricket is Australia, which has won seven One Day International trophies, including five World Cups, more than any other country and has been the top-rated Test side more than any other country
+    </string>
+    <string name="football">
+        <b>Football</b> is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used. Sports commonly called football include association football (known as soccer in North America and Oceania); gridiron football (specifically American football or Canadian football); Australian rules football; rugby union and rugby league; and Gaelic football.[1] These various forms of football share to varying extent common origins and are known as football codes.
+
+There are a number of references to traditional, ancient, or prehistoric ball games played in many different parts of the world.[2][3][4] Contemporary codes of football can be traced back to the codification of these games at English public schools during the 19th century.[5][6] The expansion and cultural influence of the British Empire allowed these rules of football to spread to areas of British influence outside the directly controlled Empire.[7] By the end of the 19th century, distinct regional codes were already developing: Gaelic football, for example, deliberately incorporated the rules of local traditional football games in order to maintain their heritage.[8] In 1888, The Football League was founded in England, becoming the first of many professional football associations. During the 20th century, several of the various kinds of football grew to become some of the most popular team sports in the world.
+    </string>
+    <string name="hockey">
+        <b>Hockey</b> is a term used to denote various types of both summer and winter team sports which originated on either an outdoor field, sheet of ice, or dry floor such as in a gymnasium.
+
+        There are many types of hockey. Some games make the use of skates, either wheeled, or bladed while others do not. In order to help make the distinction between these various games, the word hockey is often preceded by another word.
+
+        In each of these sports, two teams play against each other by trying to manoeuvre the object of play, either a type of ball or a disk (such as a puck), into the opponent\'s goal using a hockey stick. Two notable exceptions use a straight stick and an open disk (still referred to as a \"puck\") with a hole in the center instead. The first case is a style of floor hockey whose rules were codified in 1936 during the Great Depression by Canada\'s Sam Jacks. The second case involves a variant which was later modified in roughly the 1970s to make a related game that would be considered suitable for inclusion as a team sport in the newly emerging Special Olympics. The floor game of gym ringette, though related to floor hockey, is not a true variant due to the fact that it was designed in the 1990s and modelled off of the Canadian ice skating team sport of ringette, which was invented in Canada in 1963. Ringette was also invented by Sam Jacks, the same Canadian who codified the rules for the open disk style of floor hockey 1936.
+    </string>
+    <string name="tennis">
+        <b>Tennis</b> is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponent\'s court. The object of the game is to manoeuvre the ball in such a way that the opponent is not able to play a valid return. The player who is unable to return the ball validly will not gain a point, while the opposite player will.[1][2]
+
+Tennis is an Olympic sport and is played at all levels of society and at all ages. The sport can be played by anyone who can hold a racket, including wheelchair users. The modern game of tennis originated in Birmingham, England, in the late 19th century as lawn tennis.[3] It had close connections both to various field (lawn) games such as croquet and bowls as well as to the older racket sport today called real tennis.[4]
+
+The rules of modern tennis have changed little since the 1890s. Two exceptions are that until 1961 the server had to keep one foot on the ground at all times,[5][6] and the adoption of the tiebreak in the 1970s.[7] A recent addition to professional tennis has been the adoption of electronic review technology coupled with a point-challenge system, which allows a player to contest the line call of a point, a system known as Hawk-Eye.[8][9]
+
+Tennis is played by millions of recreational players and is also a popular worldwide spectator sport.[10] The four Grand Slam tournaments (also referred to as the Majors) are especially popular: the Australian Open played on hard courts, the French Open played on red clay courts, Wimbledon played on grass courts, and the US Open also played on hard courts.
+    </string>
+    <string name="heritage">
+        <b>The State Hermitage Museum</b> (Russian: Государственный Эрмитаж, tr. Gosudárstvennyj Ermitáž, IPA: [ɡəsʊˈdarstvʲɪn(ː)ɨj ɪrmʲɪˈtaʂ]) is a museum of art and culture in Saint Petersburg, Russia. It is the largest art museum in the world by gallery space.[4] It was founded in 1764 when Empress Catherine the Great acquired an impressive collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky. The museum celebrates the anniversary of its founding each year on 7 December, Saint Catherine\'s Day.[5] It has been open to the public since 1852. The Art Newspaper ranked the museum 6th in their list of the most visited art museums, with 1,649,443 visitors in 2021.[3]
+
+Its collections, of which only a small part is on permanent display, comprise over three million items (the numismatic collection accounts for about one-third of them).[6] The collections occupy a large complex of six historic buildings along Palace Embankment, including the Winter Palace, a former residence of Russian emperors. Apart from them, the Menshikov Palace, Museum of Porcelain, Storage Facility at Staraya Derevnya, and the eastern wing of the General Staff Building are also part of the museum. The museum has several exhibition centers abroad. The Hermitage is a federal state property. Since July 1992, the director of the museum has been Mikhail Piotrovsky.[7]
+
+Of the six buildings in the main museum complex, five—namely the Winter Palace, Small Hermitage, Old Hermitage, New Hermitage, and Hermitage Theatre—are all open to the public. The entrance ticket for foreign tourists costs more than the fee paid by citizens of Russia and Belarus. However, entrance is free of charge the third Thursday of every month for all visitors, and free daily for students and children. The museum is closed on Mondays. The entrance for individual visitors is located in the Winter Palace, accessible from the Courtyard.
+    </string>
+    <string name="louvre">
+        <b>Le musée du Louvre</b> est un musée situé dans le 1er arrondissement de Paris, en France.
+
+Une préfiguration en est imaginée en 1775-1776 par le comte d\'Angiviller, directeur général des Bâtiments du roi, comme lieu de présentation des chefs-d\'œuvre de la collection de la Couronne. Ce musée n\'a été inauguré qu\'en 1793 sous l\'appellation de Muséum central des arts de la République dans le palais du Louvre, ancienne résidence royale située au centre de Paris, et il est aujourd\'hui le plus grand musée d\'art et d\'antiquités au monde. Sa surface d\'exposition est de 72 735 m28.
+
+À la fin 2019, le Louvre conserve plus de 500 000 œuvres, dont plus de 36 000 étaient exposées. Elles présentent l\'art occidental du Moyen Âge à 1848, celui des civilisations antiques qui l\'ont précédé et influencé (orientales, égyptienne, grecque, étrusque et romaine), les arts des premiers chrétiens et de l\'islam.
+
+Situé dans le 1er arrondissement de Paris, sur la rive droite entre la Seine et la rue de Rivoli, le musée se signale par la pyramide de verre de son hall d\'accueil, érigée en 1989 dans la cour Napoléon et qui en est devenue emblématique, tandis que la statue équestre de Louis XIV constitue le point de départ de l\'axe historique parisien.
+
+En 2018, avec environ 10,2 millions de visiteurs annuels, le Louvre est le musée le plus visité au monde. Il est le site culturel payant le plus visité de France. Parmi ses pièces les plus célèbres figurent La Joconde, la Vénus de Milo, Le Scribe accroupi, La Victoire de Samothrace et le Code de Hammurabi.
+
+Le Louvre possède une longue histoire de conservation artistique et historique, depuis l\'Ancien Régime jusqu\'à nos jours. À la suite du départ de Louis XIV pour le château de Versailles à la fin du xviie siècle, on y entrepose une partie des collections royales de tableaux et de sculptures antiques. Après avoir durant un siècle hébergé plusieurs académies dont celle de peinture et de sculpture, ainsi que divers artistes logés par le roi, l\'ancien palais royal est véritablement transformé sous la Révolution en « Muséum central des arts de la République ». Il ouvre en 1793 en exposant environ 660 œuvres, essentiellement issues des collections royales ou confisquées chez des nobles émigrés ou dans des églises. Par la suite les collections ne cesseront de s\'enrichir par des prises de guerre, acquisitions, mécénats, legs, donations, et découvertes archéologiques.
+
+Le musée compte pour sa gestion 2 091 employés (fonctionnaires, contractuels et vacataires), dont 1 232 agents de surveillance, un garde pour chacune des 403 salles d’exposition, que complètent les effectifs affectés aux 900 caméras du système de télésurveillance
+    </string>
+    <string name="nmc">
+        The <b>National Museum of China</b> was established in 2003 [3] by the merging of the two separate museums that had occupied the same building since 1959: the Museum of the Chinese Revolution in the northern wing (originating in the Office of the National Museum of the Revolution founded in 1950 to preserve the legacy of the 1949 revolution) and the National Museum of Chinese History in the southern wing (with origins in both the Beijing National History Museum, founded in 1949, and the Preliminary Office of the National History Museum, founded in 1912, tasked to safeguard China\'s larger historical legacy).
+
+The building was completed in 1959 as one of the Ten Great Buildings celebrating the ten-year anniversary of the founding of the People\'s Republic of China. It complements the opposing Great Hall of the People that was built at the same time. The structure sits on 6.5 hectares (16 acres) and has a frontal length of 313 metres (1,027 ft), a height of four stories totaling 40 metres (130 ft), and a width of 149 metres (489 ft).[4] The front displays ten square pillars at its center.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
